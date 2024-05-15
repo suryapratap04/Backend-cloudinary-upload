@@ -2,7 +2,7 @@
 
 ### About Repository
 
-This repository Create the backend Authentication for upload files to the cloudinary after .
+This repository Create the backend Authentication for upload files to the cloudinary and after upload to it send confirmation email also.
 
 ### Setting up Locally
 
